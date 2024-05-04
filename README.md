@@ -53,6 +53,6 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" alt="Chicken" width="35" /> GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taher-1822001&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiva-code-code&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
