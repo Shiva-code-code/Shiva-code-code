@@ -20,25 +20,18 @@
 <a href="https://www.linkedin.com/in/shivakumarhazari"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"></a>
 <a href="https://www.instagram.com/shivahaz"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60"></a>
 <a href="https://wa.me/6300655864"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60"></a>
-<a href="https://www.facebook.com/"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60"></a>
 
 
 
 # <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="35" /> Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,sass,react,express,nodejs,django,mongodb,postgres&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,react,express,nodejs,mongodb,postgres&theme=dark&perline=6)](https://skillicons.dev)
 
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="35" /> Tools
 
 ![My Tools](https://skillicons.dev/icons?i=vscode,powershell,bash,git,github,eclipse,postman&theme=dark)
 
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="35" /> Experience
-
- <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="20" /> Intern @Health Compass PVT. LTD. [Full Stack Developer]<br>
- <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="20" /> Intern @Foruppo [Program Coordinator]<br>
- <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="20" /> Intern @Accenture [Software tester]<br>
 
 # <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width="35" /> Certifications
 
