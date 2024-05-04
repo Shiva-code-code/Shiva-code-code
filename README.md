@@ -35,14 +35,13 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width="35" /> Certifications
 
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Responsive Web Design](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/responsive-web-design)<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Javascript Algorithms and Data Structures](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/javascript-algorithms-and-data-structures)<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Front End Development Libraries](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/front-end-development-libraries)<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Back End Development Libraries](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/back-end-development-and-apis)<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Relational Database](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/relational-database-v8)<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Python](https://simpli.app.link/nNEq5Q68MEb)<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Java](https://simpli.app.link/Q7qlzQj9MEb)<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Machine Learning](https://github.com/taher-1822001/Certificates/blob/master/Machine%20Learning.pdf)
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Problem Solving Basic](https://www.hackerrank.com/certificates/b91303c85d9c)<br>
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Problem Solving Intermediate](https://www.hackerrank.com/certificates/445ba4748312)<br>
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [DBMS Part -1](https://drive.google.com/file/d/1qas1WmW000yMvcRjiAXPZUMllHV-X5nQ/view)<br>
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [DBMS Part -2](https://drive.google.com/file/d/1qas1WmW000yMvcRjiAXPZUMllHV-X5nQ/view)<br>
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Java](https://drive.google.com/file/d/1nBxybzI5QZ5AhOBMp74DUs3c1o5TLZKN/view)<br>
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Python](https://www.hackerrank.com/certificates/9cc4eaf63d30)<br>
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [No SQL](https://drive.google.com/file/d/1gP76A3Rhxu4CoMw51iUci3RX0ybFcuNA/view)<br>
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="35" />Recent Projects
 <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="20" /> [Twist Contact Manager (Full Stack)](https://contact-app-kappa-vert.vercel.app)<br>
