@@ -45,10 +45,10 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="35" />Recent Projects
 <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="20" /> [Student Community (Full Stack)](https://studentcommunity.vercel.app/)<br>
-<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="20" /> [Calculator](https://taher-1822001.github.io/calculator/)<br>
-<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="20" /> [Markdown Previewer](https://taher-1822001.github.io/Markdown-Previewer/)<br>
-<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="20" /> [Random Quotes](https://taher-1822001.github.io/random-Quotes/)<br>
-<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="20" /> [Drum Machine](https://taher-1822001.github.io/drum-machine/)<br>
+<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="20" /> [StableBud](https://github.com/Shiva-code-code/StableBud-ImageGenerationApp/)<br>
+<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="20" /> [Markdown Previewer]()<br>
+<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="20" /> [Food Spoilage Detection](https://github.com/Shiva-code-code/Food-spoilage-detection-/)<br>
+<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="20" /> [Weather](https://github.com/Shiva-code-code/Weather/)<br>
 
 
 # <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" alt="Chicken" width="35" /> GitHub Stats
