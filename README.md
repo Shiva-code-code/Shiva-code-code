@@ -4,89 +4,83 @@
 
 <br><br>
 <div align="center">
-
-# 👋 Hi there, I am Hazari Shiva Kumar! 🚀
+  # 👋 Hi there, I’m Hazari Shiva Kumar!
 </div>
 
 <div>
-🔥 Aspiring Full Stack Java Developer with a strong foundation in backend development.<br>
-🔥 Passionate about building scalable systems, microservices, and real-time applications with intuitive frontends.
+🔥 Java Full Stack Developer in the making  
+🔥 Passionate about building scalable backend systems and intuitive UIs  
+🔥 Currently building production-ready full-stack applications and preparing for backend roles  
 </div>
 
 ---
 
-## 🌐 Find Me Around the Web
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shivakumarhazari)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/Shiva-code-code)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge)](https://wa.me/6300655864)
+# 🌍 Find Me Around the Web
+
+[![LinkedIn](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)](https://www.linkedin.com/in/shivakumarhazari)
+[![Instagram](https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif)](https://www.instagram.com/shivahazari_)
+[![WhatsApp](https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif)](https://wa.me/6300655864)
 
 ---
 
-## 💼 Tech Stack
+# 💻 Tech Stack
 
-### Languages & Databases
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat)
-
-### Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,react,nodejs,nextjs,postgres,mysql,mongodb,redis,docker,kubernetes,aws,tailwind&theme=dark)](https://skillicons.dev)
 
 ---
 
-## 🧠 Projects
+# ⚙️ Tools
 
-### 🔹 Railway Seat Booking System (Next.js, Node.js, PostgreSQL, AWS EC2)
-- Developed smart reservation logic for 80-seat coach ensuring optimal seat allocation.
-- Built with secure JWT-auth backend and responsive, interactive frontend.
-- Deployed frontend on Vercel and backend on AWS EC2.
-
-### 🔹 Online Learning Management System (Spring Boot, React, Redis, Docker, AWS)
-- Scalable LMS with course tracking, JWT auth, Redis caching, AWS S3 file handling.
-- WebSocket for real-time updates and Dockerized microservice architecture.
-
-### 🔹 EV Charger App (React Native, Expo, Google Maps API, WebSocket)
-- Real-time EV charger locator using Expo Router and Google Maps integration.
-- Supports FABs for screenshots, station cards, user location & uploads to Google Drive.
-
-### 🔹 CryptoWeather Nexus Dashboard (React, WebSocket, Node.js, MongoDB)
-- Real-time dashboard merging crypto, weather, and news data with live WebSocket feeds.
-- Fully responsive UI with Redux Toolkit, error handling, caching, and asynchronous flows.
+![My Tools](https://skillicons.dev/icons?i=vscode,git,github,eclipse,postman&theme=dark)
 
 ---
 
-## 🏅 Certifications
+# 📂 Projects
 
-- Java (HackerRank)
-- Agile Scrum – Infosys Springboard
-- Master Spring Boot 3 & Microservices
-- DSA in Java – Infosys Springboard
-- DBMS – Infosys Springboard
-- AWS EC2 Crash Course
+### 🚆 Railway Seat Booking System – [Repo](https://github.com/Shiva-code-code/Railway-Seat-Booking-System)
+A real-time train seat reservation platform with intelligent booking logic prioritizing row-wise allocation.
+- 🧠 Smart seat allocation in PostgreSQL
+- 💡 Built with Next.js, Node.js, Express.js, Tailwind CSS
+- 🔐 JWT-based user authentication
+- 🚀 Deployed on AWS EC2 + Vercel
 
----
+### 📚 Online Learning Management System – *In Progress*
+A full-stack LMS platform simulating a production-grade e-learning environment.
+- ☁️ Backend: Spring Boot, MySQL, AWS S3, Redis
+- 💻 Frontend: React.js with Tailwind
+- 🔐 Auth with JWT | 🐳 Dockerized app | 📈 ElasticSearch for insights
 
-## 🏆 Achievements
-
-- National Hackathon finalist (IIT Bhilai)
-- GFG Top 20 (College Level)
-- Java Gold badge – HackerRank (Top 3.4% globally)
-
----
-
-## 📊 GitHub Stats
-
-![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiva-code-code&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-code-code&layout=compact&theme=dark)
+### ⛅ CryptoWeather Nexus – [Repo](https://github.com/Shiva-code-code/CryptoWeather-Nexus)
+Real-time dashboard showing cryptocurrency, weather, and news data.
+- ⚡ WebSockets for live updates
+- ⚙️ MongoDB for user data
+- 🌐 React + Redux Toolkit frontend
 
 ---
 
-⭐ **Let's Connect and Build Something Amazing Together!**
+# 📜 Certifications
+
+- ✅ Java (Hackerrank) – [Link](https://drive.google.com/file/d/1nBxybzI5QZ5AhOBMp74DUs3c1o5TLZKN/view)
+- ✅ DBMS – Infosys Springboard
+- ✅ Spring Boot & Microservices – Udemy
+- ✅ DSA with Java – Infosys Springboard
+- ✅ Agile Scrum – Infosys Springboard
+- ✅ AWS EC2 – Crash Course
 
 ---
+
+# 🏆 Achievements
+
+- 🥇 Top 20 Rank – GeeksforGeeks (College level)
+- 🧠 Java Gold Badge – HackerRank (Top 3.4%)
+- 💡 Finalist – IIT Bhilai Hackathon
+
+---
+
+# 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiva-code-code&show_icons=true&theme=dark)](https://github.com/Shiva-code-code)
+
+---
+
+If you'd like, I can generate this as a downloadable `README.md` file ready to upload to your GitHub profile. Want me to do that?
