@@ -83,4 +83,4 @@ Real-time dashboard showing cryptocurrency, weather, and news data.
 
 ---
 
-If you'd like, I can generate this as a downloadable `README.md` file ready to upload to your GitHub profile. Want me to do that?
+
