@@ -60,7 +60,7 @@ Real-time dashboard showing cryptocurrency, weather, and news data.
 
 # 📜 Certifications
 
-- ✅ Java (Hackerrank) – [Link](https://drive.google.com/file/d/1nBxybzI5QZ5AhOBMp74DUs3c1o5TLZKN/view)
+- ✅ Java  – [Link](https://drive.google.com/file/d/1nBxybzI5QZ5AhOBMp74DUs3c1o5TLZKN/view)
 - ✅ DBMS – Infosys Springboard
 - ✅ Spring Boot & Microservices – Udemy
 - ✅ DSA with Java – Infosys Springboard
